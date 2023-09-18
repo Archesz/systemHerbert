@@ -1,0 +1,34 @@
+{
+    "Simulados": {
+        "Unicamp_00001": {
+            "Gabarito": ["D", "D", "B", "A", "C", "C", "D", "C", "B", "D", "C", "D", "D", "A", "D", "B", "D", "B", "A", "C", "C", "B", "A", "D", "C", "A", "B", "B", "C", "A", "D", "A",
+                    "A", "B", "C", "B", "B", "A", "C", "B", "B", "D", "B", "A", "C", "B", "D", "B", "B", "B", "D", "C", "C", "D", "C", "A", "D", "C", "B", "D", "C", "D", "B", "C", "D", "D"],
+            "Tags": [["Dinâmica da Natureza", "Espaço Geográfico", "Geografia Física"], ["Rede", "Espaço Geográfico", "Globalização", "Fluxos", "Geografia Política"], ["Conflitos e Tensões Mundiais", "Organizações Supranacionais", "População", "Processos Econômicos Atuais", "Gobalização", "Geografia Política"], ["Dinâmica da Natureza", "Espaço Geográfico", "Placas", "Geografia Física"], ["Solos"], ["Espaço Urbano", "Redes"], ["Espaço Industrial", "Espaço Urbano", "Processos Econômicos Atuais"], ["Geral", "Antiga"], ["Geral", "Antiga"], ["Geral", "Antiga"], ["Brasil", "Brasil Colônia"], ["Brasil", "Brasil Colônia", "Historiografia"], ["Brasil", "Brasil Império"], ["Historiografia"], ["Sociologia"], ["Sociologia"], ["Sociologia"], ["Filosofia"], ["Filosofia"], ["Filosofia"], ["Biologia"], ["Biologia"], ["Biologia"], ["Biologia"], ["Biologia"], ["Biologia"], ["Biologia"], ["Velocidade Escalar"], ["Velocidade Escalar"], ["Cinemática"], ["Cinemática"], ["Processos de Eletrização"], ["Processos de Eletrização"], ["Processos de Eletrização"], ["Variação Linguística"], ["Interpretação", "Formação de Palavras"], ["Formação de Palavras"], ["Interpretação", "Semântica"], ["Formação de Palavras"], ["Formação de Palavras"], ["Literatura"], ["Literatura"], ["Literatura"], ["Literatura"], ["Literatura"], ["Literatura"], ["Literatura"], ["Separação de Misturas"], ["Estado da Matéria", "Conceitos Químicos"], ["Conceitos Químicos"], ["Substâncias", "Conceitos Químicos"], ["Substâncias", "Representações"], ["Compostos", "Ligações", "Estado da Matéria"], ["Solo", "Sais"], ["Álgebra Básica", "Lógica"], ["Álgebra Básica"], ["Álgebra Básica", "Lógica"], ["Conjuntos Numéricos"], ["Geometria Plana", "Trigonometria", "Lei dos Cosenos"], ["Álgebra Básica", "Lógica"], ["Geometria", "Triângulos", "Teoremas"], ["Função", "Sistema Linear"], ["Geometria Plana", "Trigonometria", "Lei dos Cosenos"], ["Funções", "Teoria dos Números"], ["Funções", "Funções Compostas", "Análise de Gráficos"], ["Álgebra Básica", "Lógica"]],
+            "Materias": ["Geografia", "História", "Sociologia", "Filosofia", "Biologia", "Física", "Gramática", "Literatura", "Química", "Matemática"],
+            "Questao_Materia": [7, 14, 17, 20, 27, 34, 40, 47, 54, 66]
+        },
+        "Colmeias_00001": {
+            "Gabarito": ["D", "A", "A", "C", "E", "D", "B", "E", "E", "A", "B", "B", "C", "B", "E", "C", "C", "B", "B", "A", "A", "D", "D", "C", "D"],
+            "Tags": [],
+            "Materias": ["Matemática", "Física", "Química", "Biologia", "Geografia", "História", "Geografia", "Sociologia", "Filosofia", "Gramática", "Literatura"],
+            "Questao_Materia": [12, 19, 26, 33, 40, 47, 50, 53, 59, 66]
+        },
+        "Fuvest_00001": {
+            "Gabarito": ["E", "C", "A", "C", "A", "E", "C", "D", "A", "B", "B", "B", "C", "C", "B", "A", "C", "E", "E", "A", "A", "C", "A", "C", "C", "D", "D", "D", "C", "C", "C", "A", "C", "A", "B", "C", "E", "C", "A", "E", "C", "E", "C", "E", "B", "B", "D", "D", "E", "F", "C", "D", "B", "A", "C", "C", "A", "E", "D", "A", "E", "D", "E", "A", "B", "B", "D", "A", "C", "A", "A", "C", "C", "D", "B", "E", "A", "D", "E", "C", "D", "E", "D", "B", "C", "C", "A", "B", "B", "C"],
+            "Tags": [],
+            "Materias": ["Matemática", "Física", "Química", "Biologia", "Geografia", "História", "Português", "Literatura", "Inglês", "Gerais"],
+            "Questao_Materia": [15, 23, 31, 39, 48, 56, 71, 77, 85, 90]
+        },
+        "Unicamp_00002": {
+            "Gabarito": ["C","B","C","B","B","B","C","F","D","A","C","D","B","A","D","D","B","C","B","D","C","D","C","D","D","A","C","A","C","C","C","A","B","B","D","D","C","A","C","A","B","D","B","A","D","B","B","A","B","D","A","C","D","C","C","C","C","D","C","A","C","C","D","D","A","C","C","B","A","D","A","A"],
+            "Materias": ["Matemática", "Português", "Inglês", "Física", "Química", "Biologia", "Geografia", "História", "Filosofia", "Sociologia"],
+            "Tags": [["Representação Decimal", "Matemática Básica", "Lógica"], ["Matemática Financeira", "Porcentagem"], ["Porcentagem", "Interpretação"], ["Geometria", "Setor Circular"], ["Trigonometria", "Equação Quadrática"], ["Gráficos", "Funções"], ["Gráficos", "Funções"], [], ["Progressão Aritmética"], ["Função Exponencial", "Matemática Financeira"], ["Geometria Analítica", "Equação da Circunferência", "Função"], ["Geometria Analítica", "Equação da Reta", "Equação da Circunferência"], ["Interpretação", "Poesia"], ["Interpretação"], ["Interpretação"], ["Interpretação", "Gênero Discursivo"], ["Tirinhas"], ["Intrepretação", "Multimodal", "Gramática"], ["Charge", "Tirinha"],
+            ["Classificação de Palavras"], ["Interpretação", "Poesia"], ["Interpretação", "Verbete"], ["Interpretação", "Linguagem Científica"], ["Intrepretação", "Lógica"], ["Inglês"], ["Inglês"], ["Inglês"], ["Inglês"], ["Inglês"], ["Inglês"], ["Inglês"], 
+            ["Fluídos"], ["Cinemática", "Movimento Circular Uniforme"], ["Elétrica", "Gráficos"], ["Cinemática", "Velocidade"], ["Fenômenos Climáticos", "Gases"], ["Mecânica", "Força"], ["Cinemática", "Movimento Retilineo Uniforme", "Gráficos"], ["Química"], ["Química"], ["Química"], ["Química"], ["Química"], ["Química"], ["Química"],
+            [], ["Botânica", "Citologia", "Fisiologia"], ["Ecologia"], ["Bases moleculares", "Citologia"], ["Ecologia","Interações ecológicas", "Problemas ambientais"], ["Genética"], ["Botânica", "Algas"], 
+            ["Geografia Política"], ["Geografia Política"], ["Geografia Política"], ["Geografia Política"], ["Urbanização", "Dinâmicas Territoriais"], ["Agropecuária", "Política"], ["Dinâmica atmosférica"], ["Revolução Científica"],
+            ["História do Brasil"], ["Brasil Colonial", "Povos Originários"], ["História"], ["História"], ["História"], ["História"], ["Filosofia"], ["Filosofia"], ["Filosofia"], ["Sociologia"], ["Sociologia"], ["Sociologia"]],
+            "Questao_Materia": [12, 24, 31, 38, 45, 52, 59, 66, 69, 72]
+        }
+    }
+}

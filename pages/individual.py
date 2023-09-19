@@ -134,7 +134,7 @@ disciplinas.insert(0, "Geral")
 
 disciplina = st.selectbox("Disciplina: ", disciplinas)
 
-evolutionAluno(simulado, id_select, disciplina)
+#evolutionAluno(simulado, id_select, disciplina)
 
 def viewErros(id, simulado):
     erros = database.getErros(id, simulado)
@@ -160,7 +160,7 @@ curso = st.selectbox("Selecione o Curso: ", list(df["Cursos"]))
 ppi = st.checkbox("Preto, Parto ou Indigina?")
 ep = st.selectbox("Escola Pública?", ["PAAIS 0", "PAAIS 20", "PAAIS 40", "PAAIS 60"])
 
-if ep:
+if ppi:
     nota_corte = list(df.query(f"Cursos == '{curso}'")[f"C{ep}"])[0]
 else:
     nota_corte = list(df.query(f"Cursos == '{curso}'")[ep])[0]

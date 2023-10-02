@@ -33,8 +33,8 @@
         "Unicamp_00003": {
             "Gabarito": ["D","B","A","A","C","C","C","B","A","D","D","C","A","C","B","A","B","A","D","D","C","D","A","A","A","C","C","A","C","D","D","B","D","C","D","B","C","D","D","B","A","D","A","D","F","B","B","C","C","B","C","D","B","C","B","B","D","C","B","A","F","B","B","C","D","C","D","C","A","B","C","D"],
             "Tags": [],
-            "Materias": ["Matemática", "Física", "Química", "Biologia", "Geografia", "História", "Geografia", "Sociologia", "Filosofia", "Gramática", "Literatura"],
-            "Questao_Materia": [12, 19, 26, 33, 40, 47, 50, 53, 59, 66]
+            "Materias": ["Matemática", "Português", "Inglês", "Física", "Química", "Biologia", "Geografia", "História", "Filosofia", "Sociologia"],
+            "Questao_Materia": [12, 24, 31, 38, 45, 52, 59, 66, 69, 72]
         },
     }
 }
